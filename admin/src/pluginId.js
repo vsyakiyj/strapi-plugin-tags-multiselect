@@ -1,3 +1,3 @@
-const pluginId = 'multiselect-field';
+const pluginId = 'tags-multiselect';
 
 export default pluginId;
